@@ -38,6 +38,20 @@ I'm a passionate Computer Science student at the **University of Ibadan, Nigeria
 - **TypeScript**: Full-stack development for robust, type-safe code
 - **Monorepo Management**: Using pnpm workspaces for efficient dependency handling
 - **Decentralized Architecture**: No central servers, trust-by-design principles
+- **Cloud Deployment**: CI/CD pipelines, environment management, production stability
+
+### Fintech & Payment Systems
+- **Payment Gateways**: Paystack, Flutterwave integration
+- **Escrow & Payout Flows**: Delayed payouts, transaction reconciliation, dispute lifecycle
+- **Pricing Engines**: Platform fees, revenue splits, dynamic pricing logic
+- **KYC & Verification**: ID verification providers, compliance workflows
+- **External Integrations**: Email/SMS services, insurance/coverage APIs
+
+### Security & DevOps
+- **Fintech-Grade Security**: Authentication, authorization, data encryption
+- **Secure Payment Handling**: Escrow protection, PCI-aware practices
+- **Logging & Monitoring**: Error handling, observability, production stability
+- **Backend Deployment**: Cloud hosting, environment management
 
 ### Tools & Quality Assurance
 - **Hardhat**: Smart contract deployment and testing
