@@ -63,11 +63,29 @@ I'm a passionate Computer Science student at the **University of Ibadan, Nigeria
 
 <br/>
 
-## 📚 Featured Project
+## 📚 Featured Projects
 
-**EchoinWhispr** - A fully decentralized social dApp on Hedera for anonymous persona-based connections. Built solo with Next.js, React Native, Solidity, and Hedera services. Features include encrypted messaging, IPFS storage, and HTS-based subscriptions.
+### 🔮 EchoinWhispr
+A fully decentralized social dApp on **Hedera** for anonymous persona-based connections. Built solo with Next.js, React Native, Solidity, and Hedera services. Features include encrypted messaging, IPFS storage, and HTS-based subscriptions.
 
 🔗 [View Project](https://github.com/Adeolu5678/EchoinWhispr) | 🌐 [Live Demo](https://echoinwhispr.com)
+
+---
+
+### 🚀 VentureDeck
+> *"Where Ambition Meets Opportunity."*
+
+The ultimate launchpad for startups—bridging the gap between "I have an idea" and "I have funding." A dual-interface platform featuring:
+
+- **The Forge (Entrepreneurs):** Build pitch decks, showcase traction, connect with investors
+- **Deal Flow (Investors):** AI-powered matchmaking, due diligence data rooms, commitment tracking
+- **Bounties (Talent):** Micro-task opportunities to prove skills and join teams
+
+**Tech Stack:** Next.js 15, Convex (real-time backend), Clerk Auth, Flutter (mobile), Tailwind CSS, Framer Motion
+
+**Key Features:** AI Traction Scoring • Legal Templates (SAFE, NDA) • Real-time Messaging • Verified Profiles • 22-table database schema
+
+🔗 [View Project](https://github.com/Adeolu5678/VentureDeck)
 
 <br/>
 
