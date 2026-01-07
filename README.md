@@ -66,7 +66,20 @@ I'm a passionate Computer Science student at the **University of Ibadan, Nigeria
 ## 📚 Featured Projects
 
 ### 🔮 EchoinWhispr
-A fully decentralized social dApp on **Hedera** for anonymous persona-based connections. Built solo with Next.js, React Native, Solidity, and Hedera services. Features include encrypted messaging, IPFS storage, and HTS-based subscriptions.
+> *"A Social Equalizer—Where Merit is the Only Currency."*
+
+A revolutionary decentralized social application built on **Hedera** that bridges the "Great Social Divide." EchoinWhispr removes real-world barriers like status, finance, and popularity, allowing users to connect based purely on shared interests, skills, and professional merit.
+
+**The Vision:** Create a new social fabric where connection ability isn't dictated by social hierarchies—but by who you truly are.
+
+**How It Works:**
+- 🎭 **Anonymous Personas** - Users create skill-based personas (Career, Interests, Mood) without revealing identity
+- 🔍 **Smart Discovery** - Search and filter users by career fields, shared interests, and mood matching
+- 💬 **Whisper Messaging** - End-to-end encrypted real-time messaging with rich media support
+- 🎯 **Mood Matching** - AI-powered matching algorithm connects users with similar vibes
+- 👑 **Premium Subscriptions** - HTS-based token subscriptions for enhanced features
+
+**Tech Stack:** Next.js, React Native (Expo), Solidity, Hedera (HCS, HTS), IPFS/Filecoin, ECIES Encryption
 
 🔗 [View Project](https://github.com/Adeolu5678/EchoinWhispr) | 🌐 [Live Demo](https://echoinwhispr.com)
 
@@ -85,7 +98,7 @@ The ultimate launchpad for startups—bridging the gap between "I have an idea" 
 
 **Key Features:** AI Traction Scoring • Legal Templates (SAFE, NDA) • Real-time Messaging • Verified Profiles • 22-table database schema
 
-🔗 [View Project](https://github.com/Adeolu5678/VentureDeck)
+🔗 [View Project](https://github.com/Adeolu5678/VentureDeck) | 🌐 [Live Demo](https://venturedeck.vercel.app)
 
 <br/>
 
