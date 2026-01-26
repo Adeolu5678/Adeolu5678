@@ -151,6 +151,7 @@ The ultimate launchpad for startups—bridging the gap between "I have an idea" 
 - **LinkedIn**: [Adeolu5678](https://linkedin.com/in/Adeolu5678)
 - **Twitter**: [@Adeolu5678](https://x.com/Adeolu5678)
 - **Medium**: [Adeolu5678](https://medium.com/@Adeolu5678)
+- **Instagram**: [@that.nuel](https://www.instagram.com/that.nuel)
 - **Email**: emmanueladeoye5678@gmail.com
 
 ---
