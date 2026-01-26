@@ -148,8 +148,9 @@ The ultimate launchpad for startups—bridging the gap between "I have an idea" 
 
 ## 📫 Let's Connect
 
-- **LinkedIn**: [emmylex5678](https://linkedin.com/in/emmylex5678)
-- **Twitter**: [@EmmylexJnr5678](https://x.com/EmmylexJnr5678)
+- **LinkedIn**: [Adeolu5678](https://linkedin.com/in/Adeolu5678)
+- **Twitter**: [@Adeolu5678](https://x.com/Adeolu5678)
+- **Medium**: [Adeolu5678](https://medium.com/@Adeolu5678)
 - **Email**: emmanueladeoye5678@gmail.com
 
 ---
